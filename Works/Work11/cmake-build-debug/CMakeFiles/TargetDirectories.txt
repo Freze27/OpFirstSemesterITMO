@@ -1,0 +1,3 @@
+C:/Users/Freze/Desktop/Labs_OP_1_sem/lab11op/cmake-build-debug/CMakeFiles/lab11op.dir
+C:/Users/Freze/Desktop/Labs_OP_1_sem/lab11op/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Freze/Desktop/Labs_OP_1_sem/lab11op/cmake-build-debug/CMakeFiles/rebuild_cache.dir

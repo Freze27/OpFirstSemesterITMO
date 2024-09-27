@@ -1,0 +1,1 @@
+C:\Users\Freze\Desktop\lab13op\a.exe --filepath=Shoes.mp3 --show
